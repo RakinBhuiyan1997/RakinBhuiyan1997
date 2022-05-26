@@ -46,3 +46,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakinBhuiyan1997&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakinBhuiyan1997&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### My Favorite Projects:
+
+<img width="296" alt="Screen Shot 2022-05-26 at 12 46 03 AM" src="https://user-images.githubusercontent.com/91749487/170417865-f26345dd-aedc-438e-9445-25b30a4bdc08.png">
+
+
+
