@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada!
 
-- :telescope: Finished my web-development bootcamp and currently looking for a full time position.
+- :telescope: Finished my web-development bootcamp in MERN stack and currently looking for a full time position.
 
 - :seedling: I've begun to learn Python and SQL to broaden my knowledge in the tech world!
 
