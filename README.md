@@ -8,7 +8,7 @@
      <img src="https://komarev.com/ghpvc/?username=RakinBhuiyan1997&style=flat-square&color=blue" alt="Profile Views"/>
      <h1>
   Hey! I'm Rakin from Montreal Canada!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="70px" width="30px"/>
 </h1>
 </div>
   </div>
